@@ -1,3 +1,3 @@
 ---
-title: Welcome to my ithub page!
+title: Welcome to my Github page!
 ---
